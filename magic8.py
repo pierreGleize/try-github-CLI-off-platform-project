@@ -4,7 +4,7 @@ question = "Will I win the lottery?"
 answer = ""
 
 random_number = random.randint(1, 9)
-# print(random_number)
+# print(random_number) abc
 
 if random_number == 1:
   answer = "Yes - definitely"
